@@ -62,6 +62,13 @@ A simple compiler front-end component that demonstrates:
 - Compiler design principles
 - String manipulation
 
+### 9. [Arithmetic Compiler](arithmetic-compiler/)
+A simple compiler that takes arithmetic expressions as input and generates assembly-like code:
+- Lexical analysis (tokenization)
+- Parsing and evaluation of expressions
+- Assembly code generation
+- Compiler construction fundamentals
+
 ## Getting Started
 
 Each project in this repository is designed to be self-contained and includes:
