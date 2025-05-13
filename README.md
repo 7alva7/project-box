@@ -69,6 +69,15 @@ A simple compiler that takes arithmetic expressions as input and generates assem
 - Assembly code generation
 - Compiler construction fundamentals
 
+### 10. [Asteroid Game](astroid-game/)
+A terminal-based game where you control a ship to avoid falling asteroids:
+
+- Game state management
+- User input handling
+- Terminal-based graphics
+- Real-time gameplay mechanics
+- Simple collision detection
+
 ## Getting Started
 
 Each project in this repository is designed to be self-contained and includes:
