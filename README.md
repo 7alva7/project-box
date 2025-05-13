@@ -69,7 +69,7 @@ A simple compiler that takes arithmetic expressions as input and generates assem
 - Assembly code generation
 - Compiler construction fundamentals
 
-### 10. [Asteroid Game](astroid-game/)
+### 10. [Asteroid Game](asteroid-game/)
 A terminal-based game where you control a ship to avoid falling asteroids:
 
 - Game state management
