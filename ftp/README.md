@@ -6,7 +6,6 @@ FTP implementation in C for basic file transfer operations.
 
 - Upload and download files
 - List server/client directories
-- Multi-threaded server
 - Simple command-line interface
 
 ## Build
@@ -62,4 +61,5 @@ ftp> quit
 ## Test Files
 The build process creates test files in both directories:
 - **Server files**: `server_readme.txt`, `document.txt`, `server.log`, `script.sh`
+
 - **Client files**: `client_readme.txt`, `upload_me.txt`, `config.conf`, `data.txt`
